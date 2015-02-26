@@ -8,7 +8,7 @@ rungo
 ## Usage
 
 ```bash
-rungo
+$ rungo
 ```
 
 ## Install
