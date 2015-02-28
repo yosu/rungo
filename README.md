@@ -16,7 +16,7 @@ $ rungo
 To install, use `go get`:
 
 ```bash
-$ go get -d github.com/yosu/rungo
+$ go get github.com/yosu/rungo
 ```
 
 ## Contribution
